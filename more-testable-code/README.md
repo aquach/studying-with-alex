@@ -1,6 +1,6 @@
 # How to make code more testable
 
-Video: TODO
+Video: https://youtu.be/XVZpi7VJ_ws
 
 ## How to run
 
